@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.eclipse.platform:org.eclipse.core.variables:3.4.700">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.platform/org.eclipse.core.variables/3.4.700/1f17b6eb38e048642d43dee6a0eefdf88ce3a248/org.eclipse.core.variables-3.4.700.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.platform/org.eclipse.core.variables/3.4.700/f63c8613b67bae4a38a8478674d0ab725b66ad6c/org.eclipse.core.variables-3.4.700-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
